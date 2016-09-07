@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PT AlumnoUAM</string>
+
+    <!--Pantalla de Inicio-->
+    <string name="strPreguntaUsuario">¿Aún no te registras? ¡Qué esperas!</string>
+    <string name="strAplicacion">Sistema de citas para contactar profesores para los Proyectos de Integración</string>
+
 </resources>
